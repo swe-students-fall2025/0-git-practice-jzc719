@@ -8,3 +8,6 @@
 
 # David 
 I think that the graphs on usage were interesting!
+
+# Jordan
+AI is quickly shifting from being just a helper to being a co-developer in some sense.
